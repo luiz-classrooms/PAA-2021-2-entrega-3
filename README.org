@@ -4,3 +4,5 @@
   suas resoluçẽos devem ser apresentadas em LaTeX, e você pode
   apresentar código-fonte em Python em vez de psudocódigo, se
   preferir.
+  
+  Apresente implementações, na linguagem que preferir, para quatro dos algoritmos pedidos nas questões de 1 a 20.
